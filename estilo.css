@@ -1,0 +1,15 @@
+caption{
+font-family: 'Indie Flower', cursive;
+
+}
+
+th,td{
+	border: 1px solid black;
+}
+table{
+	border: 1px solid black;
+ 	border-collapse: collapse;
+ 	font-family: 'Fira Sans', sans-serif;
+ 
+}
+td,th{
