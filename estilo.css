@@ -1,15 +1,18 @@
 caption{
 font-family: 'Indie Flower', cursive;
-
+font-size: 26px;
 }
 
 th,td{
-	border: 1px solid black;
+	border: 1px solid grey;
 }
 table{
-	border: 1px solid black;
+	border: 1px solid grey;
  	border-collapse: collapse;
  	font-family: 'Fira Sans', sans-serif;
  
 }
-td,th{
+a:link
+{
+text-decoration:none;
+} 
